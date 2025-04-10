@@ -1,0 +1,84 @@
+[02:31:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:31:32] [ServerMain/INFO]: No existing world data, creating new world
+[02:31:33] [ServerMain/INFO]: Loaded 1290 recipes
+[02:31:33] [ServerMain/INFO]: Loaded 1399 advancements
+[02:31:34] [Server thread/INFO]: Starting minecraft server version 1.21
+[02:31:34] [Server thread/INFO]: Loading properties
+[02:31:34] [Server thread/INFO]: Default game type: SURVIVAL
+[02:31:34] [Server thread/INFO]: Generating keypair
+[02:31:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:31:34] [Server thread/INFO]: Using epoll channel type
+[02:31:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:31:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:31:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:31:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:31:34] [Server thread/INFO]: Preparing level "world"
+[02:31:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:31:48] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[02:31:48] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[02:31:49] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[02:31:50] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[02:31:50] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[02:31:50] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[02:31:51] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[02:31:52] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[02:31:52] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[02:31:53] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[02:31:53] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[02:31:54] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[02:31:54] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[02:31:55] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[02:31:55] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[02:31:55] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[02:31:56] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[02:31:56] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[02:31:57] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[02:31:58] [Server thread/INFO]: Time elapsed: 9622 ms
+[02:31:58] [Server thread/INFO]: Done (23.324s)! For help, type "help"
+[02:31:58] [Server thread/INFO]: rooobiiii (/100.110.74.100:56985) lost connection: Disconnected
+[02:32:03] [Server thread/INFO]: rooobiiii[/100.110.74.100:57026] logged in with entity id 31 at (10.5, 70.0, 9.5)
+[02:32:03] [Server thread/INFO]: rooobiiii joined the game
+[02:32:16] [Server thread/INFO]: panchi06[/100.120.60.17:58148] logged in with entity id 185 at (7.5, 69.0, 8.5)
+[02:32:16] [Server thread/INFO]: panchi06 joined the game
+[02:32:28] [Server thread/INFO]: Made rooobiiii a server operator
+[02:32:37] [Server thread/INFO]: [rooobiiii: Created new objective [vida]]
+[02:32:42] [Server thread/INFO]: Bauti21[/100.112.152.56:51450] logged in with entity id 351 at (-2.5, 60.0, -9.5)
+[02:32:42] [Server thread/INFO]: Bauti21 joined the game
+[02:32:48] [Server thread/INFO]: [rooobiiii: Set display slot list to show objective vida]
+[02:32:55] [Server thread/INFO]: panchi06 was killed
+[02:32:55] [Server thread/INFO]: [rooobiiii: Killed panchi06]
+[02:33:03] [Server thread/INFO]: panchi06 was killed
+[02:33:03] [Server thread/INFO]: [rooobiiii: Killed panchi06]
+[02:33:03] [Server thread/INFO]: rooobiiii was slain by panchi06
+[02:33:07] [Server thread/INFO]: panchi06 was killed
+[02:33:07] [Server thread/INFO]: [rooobiiii: Killed panchi06]
+[02:33:12] [Server thread/INFO]: panchi06 was killed
+[02:33:12] [Server thread/INFO]: [rooobiiii: Killed panchi06]
+[02:33:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=10, y=68, z=0}
+[02:33:16] [Server thread/INFO]: Bauti21 was killed
+[02:33:16] [Server thread/INFO]: [rooobiiii: Killed Bauti21]
+[02:33:20] [Server thread/INFO]: panchi06 was killed
+[02:33:20] [Server thread/INFO]: [rooobiiii: Killed panchi06]
+[02:33:21] [Server thread/INFO]: Bauti21 was killed
+[02:33:21] [Server thread/INFO]: [rooobiiii: Killed Bauti21]
+[02:33:24] [Server thread/INFO]: panchi06 was killed
+[02:33:24] [Server thread/INFO]: [rooobiiii: Killed panchi06]
+[02:33:25] [Server thread/INFO]: Bauti21 was killed
+[02:33:25] [Server thread/INFO]: [rooobiiii: Killed Bauti21]
+[02:33:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-10, y=67, z=6}
+[02:33:30] [Server thread/INFO]: [rooobiiii: Made rooobiiii no longer a server operator]
+[02:33:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-10, y=67, z=7}
+[02:33:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-10, y=67, z=7}
+[02:35:49] [Server thread/INFO]: Bauti21 has made the advancement [A Seedy Place]
+[02:35:56] [Server thread/INFO]: [Not Secure] <Bauti21> upl
+[02:36:19] [Server thread/INFO]: Made rooobiiii a server operator
+[02:36:28] [Server thread/INFO]: [rooobiiii: Gamerule playersSleepingPercentage is now set to: 1]
+[02:36:32] [Server thread/INFO]: [rooobiiii: Made rooobiiii no longer a server operator]
+[02:38:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-202, y=64, z=401} jd{x=-201, y=62, z=402}
+[02:39:20] [Server thread/INFO]: rooobiiii lost connection: Disconnected
+[02:39:20] [Server thread/INFO]: rooobiiii left the game
+[02:39:23] [Server thread/INFO]: rooobiiii[/100.110.74.100:57386] logged in with entity id 3449 at (-124.39178215439905, 59.0, 273.88392652399443)
+[02:39:23] [Server thread/INFO]: rooobiiii joined the game
+[02:40:13] [Server thread/INFO]: [Not Secure] <rooobiiii> -120 280
+[02:40:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-101, y=64, z=271} jd{x=-101, y=62, z=270}
+[02:41:08] [Server thread/INFO]: Bauti21 was slain by rooobiiii
