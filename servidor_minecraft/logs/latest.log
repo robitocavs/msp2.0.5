@@ -1,171 +1,21 @@
-[02:31:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:31:32] [ServerMain/INFO]: No existing world data, creating new world
-[02:31:33] [ServerMain/INFO]: Loaded 1290 recipes
-[02:31:33] [ServerMain/INFO]: Loaded 1399 advancements
-[02:31:34] [Server thread/INFO]: Starting minecraft server version 1.21
-[02:31:34] [Server thread/INFO]: Loading properties
-[02:31:34] [Server thread/INFO]: Default game type: SURVIVAL
-[02:31:34] [Server thread/INFO]: Generating keypair
-[02:31:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:31:34] [Server thread/INFO]: Using epoll channel type
-[02:31:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:31:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:31:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:31:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:31:34] [Server thread/INFO]: Preparing level "world"
-[02:31:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:31:48] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:31:48] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:31:49] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:31:50] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:31:50] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:31:50] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:31:51] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:31:52] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:31:52] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:31:53] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:31:53] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:31:54] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:31:54] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:31:55] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:31:55] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:31:55] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:31:56] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:31:56] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:31:57] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:31:58] [Server thread/INFO]: Time elapsed: 9622 ms
-[02:31:58] [Server thread/INFO]: Done (23.324s)! For help, type "help"
-[02:31:58] [Server thread/INFO]: rooobiiii (/100.110.74.100:56985) lost connection: Disconnected
-[02:32:03] [Server thread/INFO]: rooobiiii[/100.110.74.100:57026] logged in with entity id 31 at (10.5, 70.0, 9.5)
-[02:32:03] [Server thread/INFO]: rooobiiii joined the game
-[02:32:16] [Server thread/INFO]: panchi06[/100.120.60.17:58148] logged in with entity id 185 at (7.5, 69.0, 8.5)
-[02:32:16] [Server thread/INFO]: panchi06 joined the game
-[02:32:28] [Server thread/INFO]: Made rooobiiii a server operator
-[02:32:37] [Server thread/INFO]: [rooobiiii: Created new objective [vida]]
-[02:32:42] [Server thread/INFO]: Bauti21[/100.112.152.56:51450] logged in with entity id 351 at (-2.5, 60.0, -9.5)
-[02:32:42] [Server thread/INFO]: Bauti21 joined the game
-[02:32:48] [Server thread/INFO]: [rooobiiii: Set display slot list to show objective vida]
-[02:32:55] [Server thread/INFO]: panchi06 was killed
-[02:32:55] [Server thread/INFO]: [rooobiiii: Killed panchi06]
-[02:33:03] [Server thread/INFO]: panchi06 was killed
-[02:33:03] [Server thread/INFO]: [rooobiiii: Killed panchi06]
-[02:33:03] [Server thread/INFO]: rooobiiii was slain by panchi06
-[02:33:07] [Server thread/INFO]: panchi06 was killed
-[02:33:07] [Server thread/INFO]: [rooobiiii: Killed panchi06]
-[02:33:12] [Server thread/INFO]: panchi06 was killed
-[02:33:12] [Server thread/INFO]: [rooobiiii: Killed panchi06]
-[02:33:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=10, y=68, z=0}
-[02:33:16] [Server thread/INFO]: Bauti21 was killed
-[02:33:16] [Server thread/INFO]: [rooobiiii: Killed Bauti21]
-[02:33:20] [Server thread/INFO]: panchi06 was killed
-[02:33:20] [Server thread/INFO]: [rooobiiii: Killed panchi06]
-[02:33:21] [Server thread/INFO]: Bauti21 was killed
-[02:33:21] [Server thread/INFO]: [rooobiiii: Killed Bauti21]
-[02:33:24] [Server thread/INFO]: panchi06 was killed
-[02:33:24] [Server thread/INFO]: [rooobiiii: Killed panchi06]
-[02:33:25] [Server thread/INFO]: Bauti21 was killed
-[02:33:25] [Server thread/INFO]: [rooobiiii: Killed Bauti21]
-[02:33:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-10, y=67, z=6}
-[02:33:30] [Server thread/INFO]: [rooobiiii: Made rooobiiii no longer a server operator]
-[02:33:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-10, y=67, z=7}
-[02:33:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-10, y=67, z=7}
-[02:35:49] [Server thread/INFO]: Bauti21 has made the advancement [A Seedy Place]
-[02:35:56] [Server thread/INFO]: [Not Secure] <Bauti21> upl
-[02:36:19] [Server thread/INFO]: Made rooobiiii a server operator
-[02:36:28] [Server thread/INFO]: [rooobiiii: Gamerule playersSleepingPercentage is now set to: 1]
-[02:36:32] [Server thread/INFO]: [rooobiiii: Made rooobiiii no longer a server operator]
-[02:38:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-202, y=64, z=401} jd{x=-201, y=62, z=402}
-[02:39:20] [Server thread/INFO]: rooobiiii lost connection: Disconnected
-[02:39:20] [Server thread/INFO]: rooobiiii left the game
-[02:39:23] [Server thread/INFO]: rooobiiii[/100.110.74.100:57386] logged in with entity id 3449 at (-124.39178215439905, 59.0, 273.88392652399443)
-[02:39:23] [Server thread/INFO]: rooobiiii joined the game
-[02:40:13] [Server thread/INFO]: [Not Secure] <rooobiiii> -120 280
-[02:40:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-101, y=64, z=271} jd{x=-101, y=62, z=270}
-[02:41:08] [Server thread/INFO]: Bauti21 was slain by rooobiiii
-[02:44:06] [Server thread/INFO]: rooobiiii has made the advancement [Stone Age]
-[02:44:31] [Server thread/INFO]: Bauti21 has made the advancement [Monster Hunter]
-[02:44:54] [Server thread/INFO]: rooobiiii has made the advancement [Getting an Upgrade]
-[02:44:57] [Server thread/INFO]: panchi06 has made the advancement [Getting an Upgrade]
-[02:45:03] [Server thread/INFO]: Bauti21 has made the advancement [Getting an Upgrade]
-[02:45:11] [Server thread/INFO]: panchi06 has made the advancement [Monster Hunter]
-[02:45:14] [Server thread/INFO]: Bauti21 was slain by Cave Spider
-[02:45:21] [Server thread/INFO]: rooobiiii has made the advancement [Monster Hunter]
-[02:45:26] [Server thread/INFO]: Bauti21 has made the advancement [Sweet Dreams]
-[02:46:08] [Server thread/INFO]: panchi06 has made the advancement [Stone Age]
-[02:46:45] [Server thread/INFO]: Bauti21 fell from a high place
-[02:46:53] [Server thread/INFO]: panchi06 has made the advancement [Acquire Hardware]
-[02:47:05] [Server thread/INFO]: panchi06 has made the advancement [Isn't It Iron Pick]
-[02:47:07] [Server thread/INFO]: panchi06 has made the advancement [Diamonds!]
-[02:47:45] [Server thread/INFO]: rooobiiii has made the advancement [Acquire Hardware]
-[02:47:52] [Server thread/INFO]: rooobiiii has made the advancement [Isn't It Iron Pick]
-[02:48:15] [Server thread/INFO]: Bauti21 has made the advancement [Stone Age]
-[02:50:09] [Server thread/INFO]: Bauti21 was shot by Skeleton
-[02:50:59] [Server thread/INFO]: rooobiiii has made the advancement [Diamonds!]
-[02:52:53] [Server thread/INFO]: panchi06 has made the advancement [Minecraft: Trial(s) Edition]
-[02:54:28] [Server thread/INFO]: Bauti21 has made the advancement [Acquire Hardware]
-[02:54:38] [Server thread/INFO]: Bauti21 has made the advancement [Isn't It Iron Pick]
-[02:54:56] [Server thread/INFO]: Bauti21 was shot by Skeleton
-[02:59:07] [Server thread/INFO]: Bauti21 has made the advancement [Diamonds!]
-[02:59:57] [Server thread/INFO]: panchi06 has made the advancement [Ice Bucket Challenge]
-[03:03:35] [Server thread/INFO]: [Not Secure] <Bauti21> ./tp
-[03:04:03] [Server thread/INFO]: [Not Secure] <Bauti21> -311 377
-[03:04:10] [Server thread/INFO]: [Not Secure] <Bauti21> -13
-[03:15:40] [Server thread/INFO]: rooobiiii has made the advancement [Hot Stuff]
-[03:20:08] [Server thread/INFO]: panchi06 has made the advancement [Sweet Dreams]
-[03:20:10] [Server thread/INFO]: [Not Secure] <panchi06> z
-[03:20:11] [Server thread/INFO]: [Not Secure] <panchi06> z
-[03:20:11] [Server thread/INFO]: [Not Secure] <panchi06> z
-[03:20:11] [Server thread/INFO]: [Not Secure] <panchi06> z
-[03:20:11] [Server thread/INFO]: [Not Secure] <panchi06> z
-[03:20:11] [Server thread/INFO]: [Not Secure] <panchi06> z
-[03:24:59] [Server thread/WARN]: Oak Boat (vehicle of panchi06) moved wrongly! 0.2907535443099505
-[03:24:59] [Server thread/WARN]: Oak Boat (vehicle of panchi06) moved wrongly! 0.6906338951621365
-[03:24:59] [Server thread/WARN]: Oak Boat (vehicle of panchi06) moved wrongly! 0.7790664020472491
-[03:24:59] [Server thread/WARN]: Oak Boat (vehicle of panchi06) moved wrongly! 0.3005137522058021
-[03:24:59] [Server thread/WARN]: Oak Boat (vehicle of panchi06) moved wrongly! 0.3875955660440127
-[03:24:59] [Server thread/WARN]: Oak Boat (vehicle of panchi06) moved wrongly! 0.3875955660440127
-[03:24:59] [Server thread/WARN]: Oak Boat (vehicle of panchi06) moved wrongly! 0.3875955660440127
-[03:26:20] [Server thread/WARN]: Oak Boat (vehicle of rooobiiii) moved wrongly! 0.4720214009952315
-[03:26:20] [Server thread/WARN]: Oak Boat (vehicle of rooobiiii) moved wrongly! 0.9236099017174411
-[03:26:20] [Server thread/WARN]: Oak Boat (vehicle of rooobiiii) moved wrongly! 1.2700964610991718
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! 10.392389064796532,0.0,-0.3977418874453633
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! 10.79209633855885,0.0,-0.41303961784569765
-[03:31:00] [Server thread/INFO]: rooobiiii has made the advancement [Sweet Dreams]
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! 11.191803612365788,0.0,-0.428337347490924
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! 11.591510886212916,0.0,-0.44363507645630307
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! 11.991218160096196,0.0,-0.45893280481004695
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! 12.39092543401199,0.0,-0.4742305326130918
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! 12.790632707957116,0.0,-0.4895282599206894
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! 13.19033998192856,0.0,-0.5048259867824072
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! 13.590047255923764,0.0,-0.5201237132425831
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! 13.989754529940285,0.0,-0.5354214393416896
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! 14.389461803976076,0.0,-0.5507191651156518
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! 14.789169078029147,0.0,-0.566016890596984
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! 15.188876352097793,0.0,-0.5813146158150175
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! 15.588583626180423,0.0,-0.5966123407959003
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! 15.988290900275672,0.0,-0.6119100655635066
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! 16.38799817438229,0.0,-0.6272077901392095
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! 16.787705448499082,0.0,-0.6425055145421084
-[03:31:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2511ms or 50 ticks behind
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! 10.392389124786916,0.0,-0.39774087254068036
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! -13.989754592469012,0.0,0.5354203814936227
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! -13.989754592469012,0.0,0.5354203814936227
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! -13.989754592469012,0.0,0.5354203814936227
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! -13.989754592469012,0.0,0.5354203814936227
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! -13.989754592469012,0.0,0.5354203814936227
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! -13.989754592469012,0.0,0.5354203814936227
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! -13.989754592469012,0.0,0.5354203814936227
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! -13.989754592469012,0.0,0.5354203814936227
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! -13.989754592469012,0.0,0.5354203814936227
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! -13.989754592469012,0.0,0.5354203814936227
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! -13.989754592469012,0.0,0.5354203814936227
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! -13.989754592469012,0.0,0.5354203814936227
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! -13.989754592469012,0.0,0.5354203814936227
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! -13.989754592469012,0.0,0.5354203814936227
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! -13.989754592469012,0.0,0.5354203814936227
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! -13.989754592469012,0.0,0.5354203814936227
-[03:31:00] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! -13.989754592469012,0.0,0.5354203814936227
-[03:31:08] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! 10.39242690380712,0.0,-0.396744403958337
-[03:31:08] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! 10.792135630878363,0.0,-0.4120038040655345
-[03:31:08] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! 11.191844357949606,0.0,-0.42726320417159513
-[03:31:08] [Server thread/WARN]: Oak Boat (vehicle of Bauti21) moved too quickly! 11.591553085020905,0.0,-0.44252260427697365
+[20:48:52] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:48:55] [ServerMain/INFO]: Loaded 1290 recipes
+[20:48:56] [ServerMain/INFO]: Loaded 1399 advancements
+[20:48:56] [Server thread/INFO]: Starting minecraft server version 1.21
+[20:48:56] [Server thread/INFO]: Loading properties
+[20:48:56] [Server thread/INFO]: Default game type: SURVIVAL
+[20:48:56] [Server thread/INFO]: Generating keypair
+[20:48:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:48:57] [Server thread/INFO]: Using epoll channel type
+[20:48:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:48:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:48:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:48:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:48:57] [Server thread/INFO]: Preparing level "world"
+[20:49:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:49:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:49:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:49:04] [Server thread/INFO]: Time elapsed: 706 ms
+[20:49:04] [Server thread/INFO]: Done (6.947s)! For help, type "help"
+[20:50:16] [Server thread/INFO]: rooobiiii[/100.110.74.100:60498] logged in with entity id 15 at (1184.653572796018, 64.0, -751.5434452625707)
+[20:50:16] [Server thread/INFO]: rooobiiii joined the game
