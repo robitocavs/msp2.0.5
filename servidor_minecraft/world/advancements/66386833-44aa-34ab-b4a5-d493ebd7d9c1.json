@@ -11,12 +11,16 @@
       "minecraft:dark_forest": "2025-04-11 03:06:06 +0000",
       "minecraft:forest": "2025-04-10 03:33:38 +0000",
       "minecraft:sparse_jungle": "2025-04-10 03:41:39 +0000",
+      "minecraft:deep_ocean": "2025-04-11 03:31:52 +0000",
       "minecraft:river": "2025-04-10 02:34:29 +0000",
       "minecraft:lukewarm_ocean": "2025-04-10 03:29:26 +0000",
       "minecraft:stony_shore": "2025-04-10 21:05:44 +0000",
       "minecraft:lush_caves": "2025-04-10 02:41:49 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-10 21:12:29 +0000",
       "minecraft:desert": "2025-04-10 02:32:04 +0000",
+      "minecraft:ocean": "2025-04-11 03:32:46 +0000",
+      "minecraft:cherry_grove": "2025-04-11 03:36:30 +0000",
+      "minecraft:birch_forest": "2025-04-11 03:34:02 +0000",
       "minecraft:savanna": "2025-04-10 03:30:24 +0000",
       "minecraft:bamboo_jungle": "2025-04-10 03:42:07 +0000",
       "minecraft:plains": "2025-04-10 03:31:33 +0000",
@@ -556,6 +560,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-11 03:38:00 +0000",
       "minecraft:cave_spider": "2025-04-10 02:45:21 +0000",
       "minecraft:skeleton": "2025-04-10 02:55:02 +0000",
       "minecraft:spider": "2025-04-10 02:52:57 +0000",
@@ -1705,6 +1710,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-04-11 03:38:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-11 03:38:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-04-11 03:13:52 +0000"
@@ -1753,6 +1770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-04-11 03:36:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-04-11 03:21:31 +0000"
@@ -1786,6 +1809,12 @@
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2025-04-11 03:22:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-04-11 03:36:43 +0000"
     },
     "done": true
   },
