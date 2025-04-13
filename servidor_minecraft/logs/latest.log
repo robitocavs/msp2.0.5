@@ -1,99 +1,26 @@
-[03:04:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:04:41] [ServerMain/INFO]: Loaded 1290 recipes
-[03:04:41] [ServerMain/INFO]: Loaded 1399 advancements
-[03:04:44] [Server thread/INFO]: Starting minecraft server version 1.21
-[03:04:44] [Server thread/INFO]: Loading properties
-[03:04:44] [Server thread/INFO]: Default game type: SURVIVAL
-[03:04:44] [Server thread/INFO]: Generating keypair
-[03:04:44] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:04:44] [Server thread/INFO]: Using epoll channel type
-[03:04:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:04:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:04:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:04:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:04:44] [Server thread/INFO]: Preparing level "world"
-[03:04:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:04:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:04:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:04:58] [Worker-Main-1/INFO]: Preparing spawn area: 10%
-[03:04:58] [Server thread/INFO]: Time elapsed: 1396 ms
-[03:04:58] [Server thread/INFO]: Done (13.610s)! For help, type "help"
-[03:05:33] [Server thread/INFO]: rooobiiii[/100.110.74.100:65449] logged in with entity id 15 at (2129.1889991876096, 64.0, -909.5153507941301)
-[03:05:33] [Server thread/INFO]: rooobiiii joined the game
-[03:06:07] [Server thread/INFO]: najo40[/100.108.106.48:60966] logged in with entity id 423 at (0.5, 67.0, -3.5)
-[03:06:07] [Server thread/INFO]: najo40 joined the game
-[03:06:18] [Server thread/INFO]: panchi06[/100.120.60.17:60561] logged in with entity id 603 at (1183.5451414426116, 63.875, -753.4310645501856)
-[03:06:18] [Server thread/INFO]: panchi06 joined the game
-[03:07:13] [Server thread/INFO]: [Not Secure] <panchi06> 1183 -754
-[03:10:00] [Server thread/INFO]: panchi06 has made the advancement [Suit Up]
-[03:11:47] [Server thread/INFO]: rooobiiii has made the advancement [Suit Up]
-[03:13:02] [Server thread/WARN]: panchi06 moved too quickly! 1.719266802705306,1.9139059206844848,-9.90394347643553
-[03:13:26] [Server thread/WARN]: rooobiiii was kicked for floating too long!
-[03:13:26] [Server thread/INFO]: rooobiiii lost connection: Flying is not enabled on this server
-[03:13:26] [Server thread/INFO]: rooobiiii left the game
-[03:13:26] [Server thread/WARN]: handleDisconnection() called twice
-[03:13:37] [Server thread/INFO]: rooobiiii[/100.110.74.100:49346] logged in with entity id 7867 at (1178.2453346961722, 64.16610926093821, -762.0377556533157)
-[03:13:37] [Server thread/INFO]: rooobiiii joined the game
-[03:14:39] [Server thread/INFO]: rooobiiii has made the advancement [Ice Bucket Challenge]
-[03:17:03] [Server thread/INFO]: najo40 has made the advancement [Acquire Hardware]
-[03:17:14] [Server thread/INFO]: najo40 has made the advancement [Suit Up]
-[03:18:51] [Server thread/INFO]: panchi06 has made the advancement [We Need to Go Deeper]
-[03:18:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6597ms or 131 ticks behind
-[03:19:29] [Server thread/INFO]: najo40 has made the advancement [Ice Bucket Challenge]
-[03:19:57] [Server thread/INFO]: najo40 has made the advancement [Isn't It Iron Pick]
-[03:23:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1162, y=64, z=-758} jd{x=1163, y=62, z=-757}
-[03:23:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1162, y=64, z=-758} jd{x=1163, y=62, z=-757}
-[03:23:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1167, y=64, z=-716} jd{x=1166, y=62, z=-716}
-[03:23:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1167, y=64, z=-716} jd{x=1166, y=62, z=-716}
-[03:23:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1162, y=64, z=-757} jd{x=1161, y=62, z=-759}
-[03:23:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1161, y=64, z=-759} jd{x=1160, y=62, z=-761}
-[03:27:37] [Server thread/WARN]: Oak Boat (vehicle of najo40) moved wrongly! 0.5197294242834687
-[03:27:37] [Server thread/WARN]: Oak Boat (vehicle of najo40) moved wrongly! 0.827564767147237
-[03:27:37] [Server thread/WARN]: Oak Boat (vehicle of rooobiiii) moved wrongly! 0.273926454172738
-[03:27:37] [Server thread/WARN]: Oak Boat (vehicle of najo40) moved wrongly! 1.1423603044437414
-[03:27:37] [Server thread/WARN]: Oak Boat (vehicle of rooobiiii) moved wrongly! 0.46337370465562344
-[03:27:37] [Server thread/WARN]: Oak Boat (vehicle of najo40) moved wrongly! 0.2573006257853194
-[03:27:37] [Server thread/WARN]: Oak Boat (vehicle of rooobiiii) moved wrongly! 0.6666082987910613
-[03:27:37] [Server thread/WARN]: Oak Boat (vehicle of najo40) moved wrongly! 0.2641356461513169
-[03:27:37] [Server thread/WARN]: Oak Boat (vehicle of najo40) moved wrongly! 0.26874947624128254
-[03:27:37] [Server thread/WARN]: Oak Boat (vehicle of najo40) moved wrongly! 0.274309766295346
-[03:27:37] [Server thread/WARN]: Oak Boat (vehicle of najo40) moved wrongly! 0.6177322748186498
-[03:27:38] [Server thread/WARN]: Oak Boat (vehicle of najo40) moved wrongly! 0.28055922424869095
-[03:27:38] [Server thread/WARN]: Oak Boat (vehicle of najo40) moved wrongly! 0.28092362995300846
-[03:27:38] [Server thread/WARN]: Oak Boat (vehicle of najo40) moved wrongly! 0.2833558364792452
-[03:27:38] [Server thread/WARN]: Oak Boat (vehicle of najo40) moved wrongly! 0.2827680542362714
-[03:27:38] [Server thread/WARN]: Oak Boat (vehicle of rooobiiii) moved wrongly! 0.2899790883707283
-[03:27:40] [Server thread/WARN]: Oak Boat (vehicle of rooobiiii) moved wrongly! 0.3416289898650575
-[03:27:41] [Server thread/WARN]: Oak Boat (vehicle of rooobiiii) moved wrongly! 0.730733565651235
-[03:27:41] [Server thread/WARN]: Oak Boat (vehicle of rooobiiii) moved wrongly! 0.730733565651235
-[03:27:41] [Server thread/WARN]: Oak Boat (vehicle of rooobiiii) moved wrongly! 0.730733565651235
-[03:27:41] [Server thread/WARN]: Oak Boat (vehicle of rooobiiii) moved wrongly! 0.730733565651235
-[03:27:41] [Server thread/WARN]: Oak Boat (vehicle of rooobiiii) moved wrongly! 0.730733565651235
-[03:27:41] [Server thread/WARN]: Oak Boat (vehicle of rooobiiii) moved wrongly! 0.4357505371906427
-[03:27:41] [Server thread/WARN]: Oak Boat (vehicle of rooobiiii) moved wrongly! 0.7116998792089362
-[03:27:41] [Server thread/WARN]: Oak Boat (vehicle of rooobiiii) moved wrongly! 0.40574605597043956
-[03:28:36] [Server thread/INFO]: najo40 has made the advancement [Stone Age]
-[03:35:44] [Server thread/WARN]: Oak Boat (vehicle of rooobiiii) moved wrongly! 0.44995818946199506
-[03:35:44] [Server thread/WARN]: Oak Boat (vehicle of rooobiiii) moved wrongly! 0.7959174742534287
-[03:35:44] [Server thread/WARN]: Oak Boat (vehicle of rooobiiii) moved wrongly! 1.147128348959086
-[03:35:48] [Server thread/WARN]: Oak Boat (vehicle of najo40) moved wrongly! 0.5711095569749887
-[03:37:36] [Server thread/WARN]: rooobiiii moved too quickly! 1.1571070715967835,0.6709083839322858,10.252654158121004
-[03:37:36] [Server thread/WARN]: panchi06 moved too quickly! -3.5638297359505486,1.4959870982234804,9.328004171377415
-[03:37:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2542ms or 50 ticks behind
-[03:39:55] [Server thread/INFO]: panchi06 has made the advancement [Not Today, Thank You]
-[03:40:37] [Server thread/INFO]: najo40 has made the advancement [Not Today, Thank You]
-[03:40:47] [Server thread/INFO]: najo40 has made the advancement [Monster Hunter]
-[03:47:58] [Server thread/INFO]: [Not Secure] <rooobiiii> 870 1770
-[03:48:20] [Server thread/INFO]: [Not Secure] <panchi06> a
-[03:48:21] [Server thread/INFO]: [Not Secure] <panchi06> a
-[03:48:21] [Server thread/INFO]: [Not Secure] <panchi06> a
-[03:48:21] [Server thread/INFO]: [Not Secure] <panchi06> a
-[03:48:21] [Server thread/INFO]: [Not Secure] <panchi06> a
-[03:48:23] [Server thread/INFO]: [Not Secure] <najo40> a
-[04:13:09] [Server thread/INFO]: najo40 lost connection: Disconnected
-[04:13:09] [Server thread/INFO]: najo40 left the game
-[04:13:49] [Server thread/INFO]: rooobiiii has made the advancement [A Seedy Place]
-[04:13:59] [Server thread/INFO]: rooobiiii lost connection: Disconnected
-[04:13:59] [Server thread/INFO]: rooobiiii left the game
-[04:14:00] [Server thread/INFO]: panchi06 lost connection: Disconnected
-[04:14:00] [Server thread/INFO]: panchi06 left the game
+[22:19:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:19:12] [ServerMain/INFO]: Loaded 1290 recipes
+[22:19:12] [ServerMain/INFO]: Loaded 1399 advancements
+[22:19:13] [Server thread/INFO]: Starting minecraft server version 1.21
+[22:19:13] [Server thread/INFO]: Loading properties
+[22:19:13] [Server thread/INFO]: Default game type: SURVIVAL
+[22:19:13] [Server thread/INFO]: Generating keypair
+[22:19:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:19:14] [Server thread/INFO]: Using epoll channel type
+[22:19:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:19:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:19:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:19:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:19:14] [Server thread/INFO]: Preparing level "world"
+[22:19:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:19:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:19:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:19:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:19:25] [Server thread/INFO]: Time elapsed: 1305 ms
+[22:19:25] [Server thread/INFO]: Done (10.732s)! For help, type "help"
+[22:20:43] [Server thread/INFO]: rooobiiii[/100.110.74.100:57194] logged in with entity id 20 at (894.9539730375394, 76.0, 1778.9345380058269)
+[22:20:43] [Server thread/INFO]: rooobiiii joined the game
+[22:20:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3406ms or 68 ticks behind
+[22:21:56] [Server thread/INFO]: panchi06[/100.120.60.17:57021] logged in with entity id 525 at (897.4604730101776, 80.0, 1779.6000907261032)
+[22:21:56] [Server thread/INFO]: panchi06 joined the game
+[22:24:49] [Server thread/INFO]: rooobiiii has made the advancement [What a Deal!]
