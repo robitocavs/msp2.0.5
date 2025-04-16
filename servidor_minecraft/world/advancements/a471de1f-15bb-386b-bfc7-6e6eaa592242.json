@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:savanna_plateau": "2025-04-16 20:59:32 +0000",
       "minecraft:beach": "2025-04-10 03:29:59 +0000",
       "minecraft:stony_peaks": "2025-04-11 03:50:54 +0000",
       "minecraft:forest": "2025-04-10 03:34:04 +0000",
@@ -2124,6 +2125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-16 20:57:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-04-16 19:48:54 +0000"
@@ -2133,6 +2140,12 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-16 19:47:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-04-16 20:47:14 +0000"
     },
     "done": true
   },
