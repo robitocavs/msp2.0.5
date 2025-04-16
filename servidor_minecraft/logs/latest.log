@@ -32,3 +32,9 @@
 [21:28:20] [Server thread/INFO]: panchi06 left the game
 [22:10:58] [Server thread/INFO]: panchi06[/100.120.60.17:64304] logged in with entity id 16747 at (886.3000000119209, 72.0, 1773.699999988079)
 [22:10:58] [Server thread/INFO]: panchi06 joined the game
+[22:21:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=89, y=49, z=224} jd{x=87, y=49, z=224}
+[22:21:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=89, y=49, z=224} jd{x=87, y=49, z=224}
+[22:21:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=89, y=49, z=224} jd{x=74, y=36, z=224}
+[22:24:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=52, y=12, z=224} jd{x=50, y=15, z=224}
+[22:24:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=52, y=12, z=224} jd{x=50, y=15, z=224}
+[22:24:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=52, y=12, z=224} jd{x=50, y=15, z=224}
