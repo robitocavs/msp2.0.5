@@ -20,3 +20,16 @@
 [00:03:32] [Server thread/INFO]: Done (9.992s)! For help, type "help"
 [00:03:34] [Server thread/INFO]: rooobiiii[/100.110.74.100:55618] logged in with entity id 20 at (893.6999999880791, 72.0, 1780.300000011921)
 [00:03:34] [Server thread/INFO]: rooobiiii joined the game
+[00:57:37] [Server thread/INFO]: rooobiiii lost connection: Disconnected
+[00:57:37] [Server thread/INFO]: rooobiiii left the game
+[00:58:02] [Server thread/INFO]: Stopping the server
+[00:58:02] [Server thread/INFO]: Stopping server
+[00:58:02] [Server thread/INFO]: Saving players
+[00:58:02] [Server thread/INFO]: Saving worlds
+[00:58:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:58:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:58:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:58:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:58:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:58:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:58:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
