@@ -200,6 +200,7 @@
     "criteria": {
       "cooked_porkchop": "2025-04-10 02:51:04 +0000",
       "bread": "2025-04-10 02:37:07 +0000",
+      "honey_bottle": "2025-04-17 22:39:23 +0000",
       "cooked_mutton": "2025-04-11 04:13:08 +0000",
       "cooked_beef": "2025-04-13 23:35:12 +0000"
     },
@@ -2563,6 +2564,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-17 22:42:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wind_charge": {
     "criteria": {
       "has_breeze_rod": "2025-04-17 22:09:23 +0000"
@@ -2677,6 +2684,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-17 22:39:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-04-17 22:15:13 +0000"
@@ -2686,6 +2699,12 @@
   "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_waxed_copper_block": "2025-04-17 22:08:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-17 22:39:03 +0000"
     },
     "done": true
   },
@@ -2758,6 +2777,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-04-17 21:20:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template": {
+    "criteria": {
+      "has_bolt_armor_trim_smithing_template": "2025-04-17 22:42:59 +0000"
     },
     "done": true
   },
