@@ -21,3 +21,16 @@
 [22:13:35] [Server thread/INFO]: rooobiiii[/100.110.74.100:61474] logged in with entity id 20 at (890.461688364539, 72.5625, 1782.2020948203779)
 [22:13:35] [Server thread/INFO]: rooobiiii joined the game
 [22:13:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3533ms or 70 ticks behind
+[22:35:54] [Server thread/INFO]: rooobiiii lost connection: Disconnected
+[22:35:54] [Server thread/INFO]: rooobiiii left the game
+[22:36:02] [Server thread/INFO]: Stopping the server
+[22:36:02] [Server thread/INFO]: Stopping server
+[22:36:02] [Server thread/INFO]: Saving players
+[22:36:02] [Server thread/INFO]: Saving worlds
+[22:36:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:36:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:36:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:36:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:36:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:36:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:36:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
