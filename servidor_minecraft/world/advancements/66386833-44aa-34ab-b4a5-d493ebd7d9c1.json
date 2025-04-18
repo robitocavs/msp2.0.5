@@ -568,6 +568,7 @@
       "minecraft:cave_spider": "2025-04-10 02:45:21 +0000",
       "minecraft:skeleton": "2025-04-10 02:55:02 +0000",
       "minecraft:piglin": "2025-04-13 23:16:34 +0000",
+      "minecraft:enderman": "2025-04-18 18:09:59 +0000",
       "minecraft:spider": "2025-04-10 02:52:57 +0000",
       "minecraft:zombie": "2025-04-10 02:52:30 +0000",
       "minecraft:creeper": "2025-04-11 04:10:23 +0000",
@@ -2370,6 +2371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-04-17 00:29:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-04-17 00:52:50 +0000"
@@ -2385,12 +2392,6 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-04-17 00:52:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-04-17 00:29:56 +0000"
     },
     "done": true
   },
