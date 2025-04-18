@@ -21,3 +21,12 @@
 [18:08:58] [Server thread/INFO]: rooobiiii joined the game
 [18:10:28] [Server thread/INFO]: panchi06[/100.120.60.17:64626] logged in with entity id 821 at (894.7930712703916, 77.0, 1785.7389842036566)
 [18:10:28] [Server thread/INFO]: panchi06 joined the game
+[18:30:39] [Server thread/INFO]: rooobiiii has made the advancement [Voluntary Exile]
+[18:39:12] [Server thread/INFO]: Villager cmk['Nitwit'/8507, l='ServerLevel[world]', x=1192.28, y=65.00, z=2584.37] died, message: 'Nitwit suffocated in a wall'
+[18:41:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1338, y=86, z=2597} jd{x=1337, y=86, z=2595}
+[18:42:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2748ms or 54 ticks behind
+[18:42:47] [Server thread/INFO]: rooobiiii fell from a high place
+[18:42:59] [Server thread/INFO]: [Not Secure] <rooobiiii> 148 307
+[18:43:00] [Server thread/INFO]: [Not Secure] <panchi06> 148 307
+[18:48:19] [Server thread/INFO]: rooobiiii lost connection: Disconnected
+[18:48:19] [Server thread/INFO]: rooobiiii left the game
