@@ -22,3 +22,8 @@
 [21:24:12] [Server thread/INFO]: rooobiiii[/100.110.74.100:59542] logged in with entity id 20 at (895.4928465897533, 72.0, 1782.699999988079)
 [21:24:12] [Server thread/INFO]: rooobiiii joined the game
 [21:44:18] [Server thread/INFO]: rooobiiii has made the advancement [Sneak 100]
+[21:52:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1343, y=-54, z=1648} jd{x=1342, y=-53, z=1647}
+[21:52:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1343, y=-54, z=1648} jd{x=1342, y=-53, z=1647}
+[21:52:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1339, y=-48, z=1652} jd{x=1339, y=-49, z=1652}
+[21:52:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1339, y=-48, z=1652} jd{x=1339, y=-49, z=1652}
+[22:00:19] [Server thread/INFO]: [Not Secure] <rooobiiii> 1320 1675
