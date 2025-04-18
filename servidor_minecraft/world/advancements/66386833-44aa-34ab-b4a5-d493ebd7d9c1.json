@@ -7,29 +7,31 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:savanna_plateau": "2025-04-13 22:53:09 +0000",
-      "minecraft:beach": "2025-04-10 03:29:53 +0000",
-      "minecraft:dark_forest": "2025-04-11 03:06:06 +0000",
-      "minecraft:stony_peaks": "2025-04-11 03:51:15 +0000",
+      "minecraft:snowy_slopes": "2025-04-18 21:43:35 +0000",
       "minecraft:forest": "2025-04-10 03:33:38 +0000",
-      "minecraft:sparse_jungle": "2025-04-10 03:41:39 +0000",
       "minecraft:deep_ocean": "2025-04-11 03:31:52 +0000",
-      "minecraft:river": "2025-04-10 02:34:29 +0000",
-      "minecraft:lukewarm_ocean": "2025-04-10 03:29:26 +0000",
-      "minecraft:stony_shore": "2025-04-10 21:05:44 +0000",
       "minecraft:lush_caves": "2025-04-10 02:41:49 +0000",
-      "minecraft:old_growth_birch_forest": "2025-04-10 21:12:29 +0000",
       "minecraft:desert": "2025-04-10 02:32:04 +0000",
       "minecraft:ocean": "2025-04-11 03:32:46 +0000",
       "minecraft:jungle": "2025-04-18 18:38:32 +0000",
       "minecraft:cherry_grove": "2025-04-11 03:36:30 +0000",
-      "minecraft:grove": "2025-04-11 03:42:12 +0000",
       "minecraft:birch_forest": "2025-04-11 03:34:02 +0000",
-      "minecraft:savanna": "2025-04-10 03:30:24 +0000",
       "minecraft:bamboo_jungle": "2025-04-10 03:42:07 +0000",
-      "minecraft:plains": "2025-04-10 03:31:33 +0000",
       "minecraft:warm_ocean": "2025-04-10 02:53:16 +0000",
-      "minecraft:deep_lukewarm_ocean": "2025-04-10 03:29:33 +0000"
+      "minecraft:deep_lukewarm_ocean": "2025-04-10 03:29:33 +0000",
+      "minecraft:savanna_plateau": "2025-04-13 22:53:09 +0000",
+      "minecraft:beach": "2025-04-10 03:29:53 +0000",
+      "minecraft:dark_forest": "2025-04-11 03:06:06 +0000",
+      "minecraft:stony_peaks": "2025-04-11 03:51:15 +0000",
+      "minecraft:sparse_jungle": "2025-04-10 03:41:39 +0000",
+      "minecraft:river": "2025-04-10 02:34:29 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-10 03:29:26 +0000",
+      "minecraft:stony_shore": "2025-04-10 21:05:44 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-10 21:12:29 +0000",
+      "minecraft:deep_dark": "2025-04-18 21:43:27 +0000",
+      "minecraft:grove": "2025-04-11 03:42:12 +0000",
+      "minecraft:savanna": "2025-04-10 03:30:24 +0000",
+      "minecraft:plains": "2025-04-10 03:31:33 +0000"
     },
     "done": false
   },
@@ -2424,6 +2426,12 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-04-18 18:30:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-04-18 21:44:18 +0000"
     },
     "done": true
   },
