@@ -22,3 +22,5 @@
 [00:26:43] [Server thread/INFO]: panchi06 joined the game
 [00:55:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=80, y=44, z=224} jd{x=81, y=44, z=224}
 [01:04:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-65, y=16, z=274} jd{x=56, y=16, z=224}
+[01:09:10] [Server thread/INFO]: panchi06 lost connection: Disconnected
+[01:09:10] [Server thread/INFO]: panchi06 left the game
