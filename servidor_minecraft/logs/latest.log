@@ -29,3 +29,18 @@
 [19:27:15] [Server thread/INFO]: [Not Secure] <rooobiiii> zzzzzzzzzzz
 [20:30:55] [Server thread/INFO]: rooobiiii has made the advancement [Enchanter]
 [21:03:12] [Server thread/INFO]: [Not Secure] <rooobiiii> zzzzzzzzzzzz
+[21:23:39] [Server thread/INFO]: rooobiiii lost connection: Disconnected
+[21:23:39] [Server thread/INFO]: rooobiiii left the game
+[21:23:48] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:23:48] [Server thread/INFO]:    /stop<--[HERE]
+[21:24:00] [Server thread/INFO]: Stopping the server
+[21:24:00] [Server thread/INFO]: Stopping server
+[21:24:00] [Server thread/INFO]: Saving players
+[21:24:00] [Server thread/INFO]: Saving worlds
+[21:24:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:24:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:24:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:24:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:24:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:24:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:24:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
