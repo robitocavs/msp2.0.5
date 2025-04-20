@@ -26,3 +26,6 @@
 [02:37:02] [Server thread/INFO]: panchi06 has made the advancement [Oh Shiny]
 [02:37:44] [Server thread/INFO]: panchi06 lost connection: Disconnected
 [02:37:44] [Server thread/INFO]: panchi06 left the game
+[02:58:51] [Server thread/INFO]: panchi06[/100.120.60.17:61127] logged in with entity id 5251 at (214.69999998807907, 62.0, 448.69999998807907)
+[02:58:51] [Server thread/INFO]: panchi06 joined the game
+[02:59:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=213, y=63, z=514} jd{x=206, y=65, z=533}
