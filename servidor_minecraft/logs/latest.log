@@ -20,3 +20,6 @@
 [02:15:40] [Server thread/INFO]: Done (10.147s)! For help, type "help"
 [02:17:31] [Server thread/INFO]: panchi06[/100.120.60.17:62244] logged in with entity id 20 at (897.1124085267912, 77.875, 1782.7571022644368)
 [02:17:31] [Server thread/INFO]: panchi06 joined the game
+[02:30:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=98, y=76, z=264} jd{x=99, y=76, z=264}
+[02:31:37] [Server thread/INFO]: [Not Secure] <panchi06> 114 73 223
+[02:33:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=147, y=72, z=319} jd{x=169, y=79, z=332}
