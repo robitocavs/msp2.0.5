@@ -29,3 +29,6 @@
 [02:58:51] [Server thread/INFO]: panchi06[/100.120.60.17:61127] logged in with entity id 5251 at (214.69999998807907, 62.0, 448.69999998807907)
 [02:58:51] [Server thread/INFO]: panchi06 joined the game
 [02:59:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=213, y=63, z=514} jd{x=206, y=65, z=533}
+[03:16:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17914ms or 358 ticks behind
+[03:25:15] [Server thread/INFO]: panchi06 lost connection: Disconnected
+[03:25:15] [Server thread/INFO]: panchi06 left the game
