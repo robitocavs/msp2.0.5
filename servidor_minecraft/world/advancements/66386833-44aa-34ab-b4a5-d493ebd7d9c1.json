@@ -2586,27 +2586,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2025-04-19 19:21:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2025-04-19 19:21:10 +0000"
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
+  "minecraft:recipes/misc/diamond": {
     "criteria": {
-      "enchanted_item": "2025-04-19 20:30:55 +0000"
+      "has_diamond_block": "2025-04-19 19:21:11 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-04-19 19:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-04-19 20:30:55 +0000"
     },
     "done": true
   },
