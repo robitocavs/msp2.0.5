@@ -207,6 +207,7 @@
       "honey_bottle": "2025-04-17 22:39:23 +0000",
       "cooked_mutton": "2025-04-11 04:13:08 +0000",
       "cooked_beef": "2025-04-13 23:35:12 +0000",
+      "chorus_fruit": "2025-04-24 02:40:27 +0000",
       "baked_potato": "2025-04-18 18:21:42 +0000",
       "golden_carrot": "2025-04-18 01:35:59 +0000"
     },
@@ -438,6 +439,7 @@
       "minecraft:husk": "2025-04-17 22:05:17 +0000",
       "minecraft:ender_dragon": "2025-04-24 02:23:00 +0000",
       "minecraft:hoglin": "2025-04-17 18:24:33 +0000",
+      "minecraft:shulker": "2025-04-24 02:31:42 +0000",
       "minecraft:piglin": "2025-04-17 18:23:36 +0000",
       "minecraft:breeze": "2025-04-17 22:09:21 +0000",
       "minecraft:vindicator": "2025-04-21 01:07:16 +0000",
@@ -3322,6 +3324,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-04-24 02:39:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-04-24 02:03:41 +0000"
@@ -3361,6 +3369,12 @@
   "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
     "criteria": {
       "has_eye_armor_trim_smithing_template": "2025-04-24 02:03:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-04-24 02:31:32 +0000"
     },
     "done": true
   },
@@ -3421,6 +3435,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-04-24 02:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-04-24 02:32:08 +0000"
     },
     "done": true
   },
