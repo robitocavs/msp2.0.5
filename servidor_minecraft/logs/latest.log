@@ -1,102 +1,24 @@
-[00:01:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:01:12] [ServerMain/INFO]: Loaded 1290 recipes
-[00:01:12] [ServerMain/INFO]: Loaded 1399 advancements
-[00:01:13] [Server thread/INFO]: Starting minecraft server version 1.21
-[00:01:13] [Server thread/INFO]: Loading properties
-[00:01:13] [Server thread/INFO]: Default game type: SURVIVAL
-[00:01:13] [Server thread/INFO]: Generating keypair
-[00:01:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:01:13] [Server thread/INFO]: Using epoll channel type
-[00:01:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:01:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:01:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:01:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:01:13] [Server thread/INFO]: Preparing level "world"
-[00:01:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:01:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:01:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:01:19] [Server thread/INFO]: Time elapsed: 730 ms
-[00:01:19] [Server thread/INFO]: Done (5.932s)! For help, type "help"
-[00:02:20] [Server thread/INFO]: rooobiiii[/100.110.74.100:60070] logged in with entity id 20 at (893.3889500911996, 76.1875, 1779.9681595982247)
-[00:02:20] [Server thread/INFO]: rooobiiii joined the game
-[01:14:24] [Server thread/INFO]: panchi06[/100.120.60.17:59655] logged in with entity id 12443 at (897.8410360584655, 78.0, 1782.3028691685583)
-[01:14:24] [Server thread/INFO]: panchi06 joined the game
-[02:00:26] [Server thread/WARN]: Oak Boat (vehicle of rooobiiii) moved wrongly! 0.30918326793698725
-[02:00:26] [Server thread/WARN]: Oak Boat (vehicle of rooobiiii) moved wrongly! 0.5928932700262521
-[02:00:26] [Server thread/WARN]: Oak Boat (vehicle of rooobiiii) moved wrongly! 0.6321417923973058
-[02:00:26] [Server thread/WARN]: Oak Boat (vehicle of rooobiiii) moved wrongly! 0.7066521031692901
-[02:02:53] [Server thread/INFO]: rooobiiii has made the advancement [Eye Spy]
-[02:02:58] [Server thread/INFO]: panchi06 has made the advancement [Eye Spy]
-[02:13:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2398, y=10, z=1129} jd{x=2397, y=10, z=1129}
-[02:13:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3139ms or 62 ticks behind
-[02:15:05] [Server thread/INFO]: [Not Secure] <panchi06> 306 38 128 nether
-[02:16:17] [Server thread/INFO]: [Not Secure] <panchi06> ?
-[02:16:20] [Server thread/INFO]: [Not Secure] <rooobiiii> decoracion
-[02:17:50] [Server thread/INFO]: rooobiiii has made the advancement [The End?]
-[02:17:52] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[02:17:52] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
-[02:17:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3377ms or 67 ticks behind
-[02:17:53] [Server thread/INFO]: panchi06 has made the advancement [The End?]
-[02:17:56] [Server thread/INFO]: [Not Secure] <rooobiiii> puto para
-[02:18:03] [Server thread/INFO]: [Not Secure] <rooobiiii> vamos dale
-[02:23:00] [Server thread/INFO]: panchi06 has made the advancement [Free the End]
-[02:23:36] [Server thread/INFO]: rooobiiii has reached the goal [The Next Generation]
-[02:23:40] [Server thread/INFO]: [Not Secure] <panchi06> pasamelo
-[02:23:41] [Server thread/INFO]: panchi06 has reached the goal [The Next Generation]
-[02:23:52] [Server thread/INFO]: [Not Secure] <panchi06> vamos a los barcos?
-[02:24:01] [Server thread/INFO]: [Not Secure] <rooobiiii> perdon
-[02:24:03] [Server thread/INFO]: [Not Secure] <rooobiiii> me olvide
-[02:24:05] [Server thread/INFO]: [Not Secure] <rooobiiii> ahi voy
-[02:24:29] [Server thread/INFO]: [Not Secure] <rooobiiii> seguis ahi?
-[02:24:32] [Server thread/INFO]: [Not Secure] <panchi06> no
-[02:24:38] [Server thread/INFO]: [Not Secure] <rooobiiii> vamos
-[02:25:01] [Server thread/INFO]: [Not Secure] <rooobiiii> 306 38 128
-[02:30:58] [Server thread/INFO]: panchi06 has made the advancement [Remote Getaway]
-[02:31:11] [Server thread/INFO]: rooobiiii has made the advancement [Remote Getaway]
-[02:31:32] [Server thread/INFO]: panchi06 has made the advancement [The City at the End of the Game]
-[02:32:12] [Server thread/INFO]: rooobiiii has made the advancement [The City at the End of the Game]
-[02:36:21] [Server thread/INFO]: [Not Secure] <rooobiiii> seguimos?
-[02:36:28] [Server thread/INFO]: [Not Secure] <panchi06> ssisi
-[02:36:30] [Server thread/INFO]: [Not Secure] <panchi06> voy al baño
-[02:39:27] [Server thread/INFO]: [Not Secure] <panchi06> dnd estas
-[02:39:31] [Server thread/INFO]: [Not Secure] <rooobiiii> abajo
-[02:40:01] [Server thread/INFO]: [Not Secure] <panchi06> 1070 690
-[02:40:48] [Server thread/INFO]: [Not Secure] <panchi06> queres bloques?
-[02:40:50] [Server thread/INFO]: [Not Secure] <panchi06> te garcho
-[02:40:54] [Server thread/INFO]: [Not Secure] <rooobiiii> ??
-[02:40:57] [Server thread/INFO]: [Not Secure] <panchi06> :c
-[02:42:18] [Server thread/INFO]: [Not Secure] <panchi06> dnd estas
-[02:42:18] [Server thread/INFO]: [Not Secure] <rooobiiii> panchi
-[02:42:20] [Server thread/INFO]: [Not Secure] <rooobiiii> tenes
-[02:42:30] [Server thread/INFO]: [Not Secure] <rooobiiii> mas
-[02:43:03] [Server thread/INFO]: [Not Secure] <rooobiiii> panchi
-[02:43:04] [Server thread/INFO]: [Not Secure] <rooobiiii> panchi
-[02:43:05] [Server thread/INFO]: [Not Secure] <rooobiiii> panchi
-[02:43:05] [Server thread/INFO]: [Not Secure] <rooobiiii> panchi
-[02:43:05] [Server thread/INFO]: [Not Secure] <rooobiiii> panchi
-[02:43:06] [Server thread/INFO]: [Not Secure] <rooobiiii> panchi
-[02:43:07] [Server thread/INFO]: [Not Secure] <panchi06> q
-[02:43:11] [Server thread/INFO]: [Not Secure] <rooobiiii> dnd estas
-[02:43:26] [Server thread/INFO]: [Not Secure] <panchi06> 1368 959
-[02:44:16] [Server thread/INFO]: [Not Secure] <rooobiiii> perleaste a la isla?
-[02:44:20] [Server thread/INFO]: [Not Secure] <panchi06> si
-[02:48:31] [Server thread/INFO]: [Not Secure] <panchi06> dnd estas
-[02:48:38] [Server thread/INFO]: [Not Secure] <rooobiiii> me fui para cualquier lado
-[02:48:43] [Server thread/INFO]: [Not Secure] <rooobiiii> 1434 1706
-[02:49:40] [Server thread/INFO]: [Not Secure] <panchi06> me perdio
-[02:49:42] [Server thread/INFO]: [Not Secure] <panchi06> me perdi
-[02:50:07] [Server thread/INFO]: [Not Secure] <rooobiiii> explora
-[02:50:13] [Server thread/INFO]: [Not Secure] <rooobiiii> y si encontras avisa
-[02:50:19] [Server thread/INFO]: [Not Secure] <rooobiiii> y con las elytras buscamos
-[03:01:40] [Server thread/INFO]: panchi06 has reached the goal [Sky's the Limit]
-[03:01:45] [Server thread/INFO]: [Not Secure] <rooobiiii> ou shit
-[03:02:37] [Server thread/INFO]: [Not Secure] <panchi06> 2898 1072
-[03:03:33] [Server thread/INFO]: [Not Secure] <rooobiiii> si me conseguis una avisame
-[03:06:07] [Server thread/INFO]: [Not Secure] <rooobiiii> no quiero caminar mas
-[03:10:32] [Server thread/INFO]: [Not Secure] <rooobiiii> me las piro
-[03:10:34] [Server thread/INFO]: [Not Secure] <rooobiiii> me canse
-[03:10:36] [Server thread/INFO]: [Not Secure] <rooobiiii> peldon
-[03:10:38] [Server thread/INFO]: rooobiiii lost connection: Disconnected
-[03:10:38] [Server thread/INFO]: rooobiiii left the game
-[03:11:20] [Server thread/INFO]: panchi06 lost connection: Disconnected
-[03:11:20] [Server thread/INFO]: panchi06 left the game
+[05:06:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:06:41] [ServerMain/INFO]: Loaded 1290 recipes
+[05:06:42] [ServerMain/INFO]: Loaded 1399 advancements
+[05:06:43] [Server thread/INFO]: Starting minecraft server version 1.21
+[05:06:43] [Server thread/INFO]: Loading properties
+[05:06:43] [Server thread/INFO]: Default game type: SURVIVAL
+[05:06:43] [Server thread/INFO]: Generating keypair
+[05:06:43] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:06:43] [Server thread/INFO]: Using epoll channel type
+[05:06:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:06:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:06:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:06:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:06:43] [Server thread/INFO]: Preparing level "world"
+[05:06:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:06:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:06:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:06:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:06:54] [Worker-Main-1/INFO]: Preparing spawn area: 12%
+[05:06:55] [Worker-Main-1/INFO]: Preparing spawn area: 65%
+[05:06:55] [Server thread/INFO]: Time elapsed: 2048 ms
+[05:06:55] [Server thread/INFO]: Done (11.402s)! For help, type "help"
+[05:09:33] [Server thread/INFO]: panchi06[/100.120.60.17:52953] logged in with entity id 29 at (2897.211180939354, 61.0, 1015.1787074319835)
+[05:09:33] [Server thread/INFO]: panchi06 joined the game
