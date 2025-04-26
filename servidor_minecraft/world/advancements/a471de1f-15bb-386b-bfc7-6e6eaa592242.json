@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-04-26 17:22:41 +0000",
       "minecraft:old_growth_pine_taiga": "2025-04-20 03:22:17 +0000",
       "minecraft:forest": "2025-04-10 03:34:04 +0000",
       "minecraft:taiga": "2025-04-20 03:16:16 +0000",
@@ -31,6 +32,7 @@
       "minecraft:old_growth_birch_forest": "2025-04-17 21:29:08 +0000",
       "minecraft:deep_dark": "2025-04-13 23:36:00 +0000",
       "minecraft:grove": "2025-04-17 21:28:40 +0000",
+      "minecraft:swamp": "2025-04-26 17:21:15 +0000",
       "minecraft:meadow": "2025-04-17 21:28:46 +0000",
       "minecraft:savanna": "2025-04-10 03:50:47 +0000",
       "minecraft:plains": "2025-04-10 03:31:51 +0000",
@@ -3752,12 +3754,6 @@
     },
     "done": true
   },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-04-26 01:34:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-04-26 01:33:50 +0000"
@@ -3773,12 +3769,6 @@
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2025-04-26 01:33:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-04-26 01:34:44 +0000"
     },
     "done": true
   },
@@ -3800,21 +3790,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
-    "criteria": {
-      "has_rib_armor_trim_smithing_template": "2025-04-26 01:34:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-04-26 01:33:50 +0000"
     },
     "done": true
   },
-  "minecraft:nether/fast_travel": {
+  "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
-      "travelled": "2025-04-26 01:40:26 +0000"
+      "has_nether_bricks": "2025-04-26 01:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-04-26 01:34:24 +0000"
     },
     "done": true
   },
@@ -3824,9 +3814,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/nether_brick_fence": {
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_nether_bricks": "2025-04-26 01:33:50 +0000"
+      "has_smithing_trim_template": "2025-04-26 01:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-04-26 01:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-04-26 01:40:26 +0000"
     },
     "done": true
   },
