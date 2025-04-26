@@ -15,10 +15,12 @@
       "minecraft:lush_caves": "2025-04-10 02:42:14 +0000",
       "minecraft:desert": "2025-04-10 02:32:16 +0000",
       "minecraft:ocean": "2025-04-11 03:32:43 +0000",
+      "minecraft:jungle": "2025-04-26 17:29:37 +0000",
       "minecraft:cherry_grove": "2025-04-11 03:36:36 +0000",
       "minecraft:birch_forest": "2025-04-11 03:34:04 +0000",
       "minecraft:warm_ocean": "2025-04-10 03:24:50 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-10 03:30:43 +0000",
+      "minecraft:flower_forest": "2025-04-26 17:25:33 +0000",
       "minecraft:savanna_plateau": "2025-04-16 20:59:32 +0000",
       "minecraft:beach": "2025-04-10 03:29:59 +0000",
       "minecraft:stony_peaks": "2025-04-11 03:50:54 +0000",
@@ -3829,6 +3831,18 @@
   "minecraft:nether/fast_travel": {
     "criteria": {
       "travelled": "2025-04-26 01:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-04-26 17:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-26 17:24:37 +0000"
     },
     "done": true
   },
