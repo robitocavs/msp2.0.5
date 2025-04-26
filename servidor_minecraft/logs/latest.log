@@ -55,3 +55,14 @@
 [01:36:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=654, y=74, z=1674} jd{x=656, y=72, z=1675}
 [01:36:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=654, y=74, z=1674} jd{x=656, y=72, z=1675}
 [01:36:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=654, y=74, z=1674} jd{x=656, y=72, z=1675}
+[01:40:26] [Server thread/INFO]: panchi06 has completed the challenge [Subspace Bubble]
+[01:41:25] [Server thread/WARN]: rooobiiii moved too quickly! -0.06243769152314371,0.0,-10.101270829663747
+[01:41:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3239ms or 64 ticks behind
+[01:42:34] [Server thread/INFO]: rooobiiii tried to swim in lava
+[01:42:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2132ms or 42 ticks behind
+[01:42:57] [Server thread/WARN]: panchi06 moved too quickly! -16.84270007345367,-3.9438385111029675,1.4044743352969817
+[01:43:20] [Server thread/INFO]: rooobiiii lost connection: Disconnected
+[01:43:20] [Server thread/INFO]: rooobiiii left the game
+[01:43:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2963ms or 59 ticks behind
+[01:43:33] [Server thread/INFO]: panchi06 lost connection: Disconnected
+[01:43:33] [Server thread/INFO]: panchi06 left the game
