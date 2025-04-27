@@ -1,62 +1,21 @@
-[17:18:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:18:30] [ServerMain/INFO]: Loaded 1290 recipes
-[17:18:31] [ServerMain/INFO]: Loaded 1399 advancements
-[17:18:32] [Server thread/INFO]: Starting minecraft server version 1.21
-[17:18:32] [Server thread/INFO]: Loading properties
-[17:18:32] [Server thread/INFO]: Default game type: SURVIVAL
-[17:18:32] [Server thread/INFO]: Generating keypair
-[17:18:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:18:32] [Server thread/INFO]: Using epoll channel type
-[17:18:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:18:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:18:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:18:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:18:32] [Server thread/INFO]: Preparing level "world"
-[17:18:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:18:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:18:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:18:45] [Worker-Main-1/INFO]: Preparing spawn area: 4%
-[17:18:45] [Worker-Main-1/INFO]: Preparing spawn area: 42%
-[17:18:46] [Worker-Main-1/INFO]: Preparing spawn area: 83%
-[17:18:46] [Server thread/INFO]: Time elapsed: 2106 ms
-[17:18:46] [Server thread/INFO]: Done (13.703s)! For help, type "help"
-[17:21:00] [Server thread/INFO]: panchi06[/100.120.60.17:61024] logged in with entity id 20 at (7410.095671456374, 76.21840451844116, 14239.795724742075)
-[17:21:00] [Server thread/INFO]: panchi06 joined the game
-[17:21:17] [Server thread/WARN]: panchi06 moved wrongly!
-[17:21:33] [Server thread/WARN]: panchi06 moved too quickly! 0.6219757232393022,-2.12820243315376,-18.286771131552086
-[17:21:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2751ms or 55 ticks behind
-[17:21:35] [Server thread/WARN]: panchi06 moved too quickly! 0.7257878000200435,-2.157387663856184,-17.839805062008963
-[17:26:04] [Server thread/WARN]: panchi06 moved too quickly! -12.161622802364946,-1.4614284311620906,-12.547798701096326
-[17:26:09] [Server thread/WARN]: panchi06 moved too quickly! -12.130510468276043,-1.5043251277550098,-12.515698436878665
-[17:26:20] [Server thread/WARN]: panchi06 moved too quickly! -12.168741201790908,-1.7943931414346537,-12.555143135679828
-[17:26:26] [Server thread/WARN]: panchi06 moved too quickly! -12.111514859728231,-1.5095622293165576,-12.49609964845149
-[17:26:31] [Server thread/WARN]: panchi06 moved too quickly! -12.10519393838058,-1.5290334382253121,-12.489578014787185
-[17:26:34] [Server thread/WARN]: panchi06 moved too quickly! -12.917508987462497,-1.7838563410886366,-13.32768703061447
-[17:26:45] [Server thread/WARN]: panchi06 moved too quickly! -13.133894510409846,-0.2793119421990298,-12.40135566490062
-[17:27:02] [Server thread/WARN]: panchi06 moved too quickly! -12.960781748141017,-1.5584268004008806,-12.221779752058865
-[17:27:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3425ms or 68 ticks behind
-[17:27:17] [Server thread/WARN]: panchi06 moved too quickly! -12.774060013805865,-1.2393810196398363,-12.045704771448072
-[17:27:25] [Server thread/WARN]: panchi06 moved too quickly! -13.23042895594972,-1.1699489963905734,-12.47605257624491
-[17:27:31] [Server thread/WARN]: panchi06 moved too quickly! -12.908613745385082,-1.0438332669894805,-12.15588342422052
-[17:27:36] [Server thread/WARN]: panchi06 moved too quickly! -15.828552200227932,5.373029056541014,-4.85960529035583
-[17:27:48] [Server thread/WARN]: panchi06 moved too quickly! -16.175716691097477,4.90537096280238,-4.966184385002634
-[17:27:57] [Server thread/WARN]: panchi06 moved too quickly! -16.913888377855983,-2.6771439133396484,-4.417384940588818
-[17:28:15] [Server thread/WARN]: panchi06 moved too quickly! -17.36916351092532,-2.0021166797716603,-4.528154249141153
-[17:28:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3447ms or 68 ticks behind
-[17:28:24] [Server thread/WARN]: panchi06 moved too quickly! -17.43069639090845,-2.3344481274865956,-4.485347544310571
-[17:28:53] [Server thread/WARN]: panchi06 moved too quickly! -15.344978495372743,-2.0515919002018705,-10.174736927239792
-[17:29:05] [Server thread/WARN]: panchi06 moved too quickly! -16.146724601692767,2.819069962529994,-6.518339009715419
-[17:29:15] [Server thread/WARN]: panchi06 moved too quickly! -16.691672597448814,-1.8258324896978309,-6.204476583336145
-[17:29:32] [Server thread/WARN]: panchi06 moved too quickly! -3.211706504950598,-1.5284350544825571,-17.263133681075487
-[17:30:46] [Server thread/WARN]: panchi06 moved too quickly! 2.004074802365267,-2.2824517899347256,-18.608581228303592
-[17:31:03] [Server thread/WARN]: panchi06 moved too quickly! -0.9190033648515055,-1.9429144654077106,-19.277642826248666
-[17:31:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2910ms or 58 ticks behind
-[17:31:18] [Server thread/WARN]: panchi06 moved too quickly! -0.8167796308657671,-1.8925244619080104,-18.670816148663107
-[17:31:22] [Server thread/WARN]: panchi06 moved too quickly! -1.0798865212177589,-1.9522956695765288,-18.720725981430405
-[17:31:27] [Server thread/WARN]: panchi06 moved too quickly! -1.0910635330824334,-1.975350260138228,-18.57947146280094
-[17:31:30] [Server thread/WARN]: panchi06 moved too quickly! -1.0985612155886884,-1.81747586508898,-18.701400054284022
-[17:31:36] [Server thread/WARN]: panchi06 moved too quickly! -1.0752008088243201,-1.7598265565088695,-18.30372332296065
-[17:31:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
-[17:31:40] [Server thread/WARN]: panchi06 moved wrongly!
-[17:34:34] [Server thread/INFO]: panchi06 lost connection: Disconnected
-[17:34:34] [Server thread/INFO]: panchi06 left the game
+[02:21:25] [Server thread/INFO]: panchi06[/100.120.60.17:50441] logged in with entity id 11063 at (3943.0272957788266, 69.0, 7417.969182847186)
+[02:21:25] [Server thread/INFO]: panchi06 joined the game
+[02:22:23] [Server thread/WARN]: panchi06 moved too quickly! -14.744290590020682,-1.937122781986659,-10.081325516632205
+[02:22:25] [Server thread/WARN]: panchi06 moved too quickly! -15.582691583997985,-2.1239975194036447,-8.41225148675312
+[02:23:06] [Server thread/WARN]: panchi06 moved too quickly! -15.36381761042685,2.723591920490122,-8.531157375501607
+[02:23:20] [Server thread/WARN]: panchi06 moved too quickly! -16.333904401684777,-0.9122178533021099,-8.17474458201741
+[02:23:26] [Server thread/WARN]: panchi06 moved too quickly! -16.392347418954614,-0.7197865491192488,-8.790184968133872
+[02:23:48] [Server thread/WARN]: panchi06 moved too quickly! -16.209498855636866,-1.1615486489726408,-8.506944356861823
+[02:23:50] [Server thread/WARN]: panchi06 moved too quickly! -16.08392347975223,-0.9946091553515402,-8.440564542860557
+[02:23:56] [Server thread/WARN]: panchi06 moved too quickly! -15.421396236313285,-1.6255915766043785,-8.093335324482723
+[02:25:21] [Server thread/WARN]: panchi06 moved too quickly! -11.545598786562778,-2.4344148094551485,-14.381254595056816
+[02:25:28] [Server thread/WARN]: panchi06 moved too quickly! -3.0804380392548865,1.888174981322578,-16.997742868724345
+[02:26:10] [Server thread/WARN]: panchi06 moved too quickly! -6.344162449917462,-2.1215781087726953,-16.283681675682146
+[02:26:32] [Server thread/WARN]: panchi06 moved too quickly! 11.86040015836852,-1.9030315541973266,-12.968018802273036
+[02:26:49] [Server thread/WARN]: panchi06 moved too quickly! 11.421008975454015,-1.3369781938028922,-13.204618315069638
+[02:26:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2397ms or 47 ticks behind
+[02:26:56] [Server thread/WARN]: panchi06 moved too quickly! 12.3157774287331,-1.741568859187339,-14.238721715584234
+[02:29:10] [Server thread/WARN]: panchi06 moved too quickly! -5.019928302783683,-2.39299721287054,-17.593255774206682
+[02:29:14] [Server thread/WARN]: panchi06 moved too quickly! -5.875331224215188,-2.591995603002971,-16.940933389009842
+[02:29:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2601ms or 52 ticks behind
+[02:29:45] [Server thread/WARN]: panchi06 moved too quickly! -5.8228283734968045,-1.7057312890184733,-17.431649911808336
