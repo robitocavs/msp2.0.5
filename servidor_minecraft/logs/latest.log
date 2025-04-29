@@ -33,3 +33,20 @@
 [13:49:14] [Server thread/INFO]: [rooobiiii: Set own game mode to Creative Mode]
 [13:49:25] [Server thread/INFO]: [rooobiiii: Set own game mode to Survival Mode]
 [13:49:29] [Server thread/INFO]: [rooobiiii: Made rooobiiii no longer a server operator]
+[13:54:51] [Server thread/INFO]: Made rooobiiii a server operator
+[13:54:55] [Server thread/INFO]: [rooobiiii: Set own game mode to Creative Mode]
+[13:56:09] [Server thread/INFO]: [rooobiiii: Set own game mode to Survival Mode]
+[13:56:14] [Server thread/INFO]: [rooobiiii: Made rooobiiii no longer a server operator]
+[13:56:15] [Server thread/INFO]: rooobiiii lost connection: Disconnected
+[13:56:15] [Server thread/INFO]: rooobiiii left the game
+[13:56:23] [Server thread/INFO]: Stopping the server
+[13:56:23] [Server thread/INFO]: Stopping server
+[13:56:23] [Server thread/INFO]: Saving players
+[13:56:23] [Server thread/INFO]: Saving worlds
+[13:56:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:56:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13:56:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13:56:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:56:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:56:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:56:24] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
