@@ -21,3 +21,11 @@
 [13:25:23] [Server thread/INFO]: rooobiiii[/100.110.74.100:50634] logged in with entity id 20 at (893.8973670334562, 76.0, 1779.323618173695)
 [13:25:23] [Server thread/INFO]: rooobiiii joined the game
 [13:25:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2780ms or 55 ticks behind
+[13:40:10] [Server thread/WARN]: rooobiiii moved too quickly! -8.566977489370402,-3.0141637521438867,-14.803375266717012
+[13:41:03] [Server thread/INFO]: rooobiiii tried to swim in lava
+[13:41:17] [Server thread/INFO]: rooobiiii lost connection: Disconnected
+[13:41:17] [Server thread/INFO]: rooobiiii left the game
+[13:41:23] [Server thread/INFO]: rooobiiii[/100.110.74.100:51675] logged in with entity id 4373 at (896.0619753320275, 77.875, 1784.625792583759)
+[13:41:23] [Server thread/INFO]: rooobiiii joined the game
+[13:41:42] [Server thread/INFO]: Made rooobiiii a server operator
+[13:41:48] [Server thread/INFO]: [rooobiiii: Set own game mode to Creative Mode]
