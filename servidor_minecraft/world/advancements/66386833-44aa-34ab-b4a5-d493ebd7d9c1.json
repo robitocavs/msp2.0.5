@@ -3739,21 +3739,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2025-05-02 15:27:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-05-02 15:27:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jack_o_lantern": {
+  "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
-      "has_carved_pumpkin": "2025-05-02 15:28:40 +0000"
+      "has_pumpkin": "2025-05-02 15:27:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-05-02 15:27:26 +0000"
     },
     "done": true
   },
@@ -3763,9 +3763,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/pumpkin_pie": {
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
-      "has_pumpkin": "2025-05-02 15:27:07 +0000"
+      "has_carved_pumpkin": "2025-05-02 15:28:40 +0000"
     },
     "done": true
   },

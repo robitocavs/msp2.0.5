@@ -21,3 +21,16 @@
 [17:11:39] [Server thread/INFO]: Done (12.408s)! For help, type "help"
 [17:13:32] [Server thread/INFO]: panchi06[/100.120.60.17:57102] logged in with entity id 20 at (896.9087982955717, 77.875, 1784.6293138265746)
 [17:13:32] [Server thread/INFO]: panchi06 joined the game
+[17:53:34] [Server thread/INFO]: rooobiiii[/100.110.74.100:58052] logged in with entity id 12957 at (917.0927141490996, 79.0, 1790.2530633793565)
+[17:53:34] [Server thread/INFO]: rooobiiii joined the game
+[17:54:07] [Server thread/INFO]: [Not Secure] <rooobiiii> se me lageo todo xd
+[18:04:36] [Server thread/WARN]: rooobiiii moved too quickly! 10.283051144343972,6.263438459840643,-13.631428439513002
+[18:05:07] [Server thread/WARN]: rooobiiii moved too quickly! 7.8547949830885955,13.681240966956693,-9.760704704114005
+[18:24:25] [Server thread/INFO]: [Not Secure] <rooobiiii> 1225 887
+[18:29:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=891, y=43, z=1781} jd{x=891, y=44, z=1781}
+[18:29:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=891, y=43, z=1780} jd{x=891, y=44, z=1781}
+[18:29:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=891, y=42, z=1780} jd{x=891, y=44, z=1781}
+[18:29:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=891, y=42, z=1779} jd{x=891, y=44, z=1781}
+[18:38:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=894, y=77, z=1782} jd{x=1221, y=69, z=905}
+[18:39:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=894, y=77, z=1782} jd{x=1224, y=69, z=903}
+[18:40:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=891, y=71, z=1782} jd{x=1225, y=69, z=876}
