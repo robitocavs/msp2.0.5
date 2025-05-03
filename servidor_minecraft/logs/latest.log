@@ -23,3 +23,4 @@
 [22:29:58] [Server thread/INFO]: Done (12.568s)! For help, type "help"
 [22:30:57] [Server thread/INFO]: rooobiiii[/100.110.74.100:49592] logged in with entity id 20 at (1219.6143818839366, 63.0, 895.0722588291176)
 [22:30:57] [Server thread/INFO]: rooobiiii joined the game
+[22:59:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=870, y=79, z=1799} jd{x=871, y=77, z=1800}
