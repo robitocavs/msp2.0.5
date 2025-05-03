@@ -24,3 +24,9 @@
 [22:30:57] [Server thread/INFO]: rooobiiii[/100.110.74.100:49592] logged in with entity id 20 at (1219.6143818839366, 63.0, 895.0722588291176)
 [22:30:57] [Server thread/INFO]: rooobiiii joined the game
 [22:59:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=870, y=79, z=1799} jd{x=871, y=77, z=1800}
+[23:00:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=866, y=79, z=1796} jd{x=865, y=77, z=1797}
+[23:00:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=865, y=80, z=1802} jd{x=865, y=78, z=1803}
+[23:00:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=858, y=80, z=1802} jd{x=857, y=78, z=1803}
+[23:00:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=858, y=80, z=1802} jd{x=857, y=78, z=1803}
+[23:00:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=858, y=80, z=1802} jd{x=857, y=78, z=1803}
+[23:00:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=856, y=80, z=1804} jd{x=855, y=79, z=1804}
