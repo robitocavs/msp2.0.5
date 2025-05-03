@@ -457,7 +457,8 @@
       "minecraft:spider": "2025-04-10 02:55:17 +0000",
       "minecraft:piglin_brute": "2025-04-17 18:22:58 +0000",
       "minecraft:zombie": "2025-04-13 23:21:56 +0000",
-      "minecraft:creeper": "2025-04-10 02:54:31 +0000"
+      "minecraft:creeper": "2025-04-10 02:54:31 +0000",
+      "minecraft:drowned": "2025-05-03 17:17:40 +0000"
     },
     "done": false
   },
@@ -3846,6 +3847,24 @@
   "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-04-26 17:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-05-03 17:18:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-05-03 17:18:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-05-03 17:18:06 +0000"
     },
     "done": true
   },
