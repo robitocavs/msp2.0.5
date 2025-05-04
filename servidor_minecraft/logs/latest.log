@@ -34,3 +34,4 @@
 [01:44:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1111, y=60, z=1545} jd{x=1110, y=60, z=1545}
 [01:45:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1143, y=64, z=1606} jd{x=1144, y=63, z=1606}
 [01:47:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1140, y=61, z=1475} jd{x=1141, y=61, z=1475}
+[01:48:27] [Server thread/WARN]: panchi06 moved wrongly!
