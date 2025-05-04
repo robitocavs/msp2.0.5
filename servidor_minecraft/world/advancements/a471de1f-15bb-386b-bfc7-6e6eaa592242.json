@@ -3881,15 +3881,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/trim_with_any_armor_pattern": {
-    "criteria": {
-      "armor_trimmed_minecraft:eye_armor_trim_smithing_template_smithing_trim": "2025-05-04 02:08:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2025-05-04 02:08:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:eye_armor_trim_smithing_template_smithing_trim": "2025-05-04 02:08:28 +0000"
     },
     "done": true
   },
