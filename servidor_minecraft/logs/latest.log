@@ -58,3 +58,17 @@
 [02:10:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=855, y=78, z=1753} jd{x=855, y=77, z=1755}
 [02:14:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=835, y=95, z=1723} jd{x=834, y=94, z=1723}
 [02:14:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=834, y=93, z=1724} jd{x=834, y=92, z=1724}
+[02:29:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=889, y=74, z=1771} jd{x=875, y=75, z=1775}
+[02:34:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=867, y=76, z=1791} jd{x=867, y=75, z=1793}
+[02:37:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=853, y=83, z=1810} jd{x=852, y=84, z=1810}
+[02:37:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=855, y=87, z=1725} jd{x=855, y=86, z=1724}
+[02:38:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=859, y=88, z=1729} jd{x=858, y=88, z=1729}
+[02:39:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=847, y=87, z=1741} jd{x=847, y=87, z=1739}
+[02:39:28] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=831, y=86, z=1740} jd{x=829, y=86, z=1740}
+[02:39:28] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=831, y=86, z=1740} jd{x=829, y=86, z=1740}
+[02:39:28] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=831, y=86, z=1740} jd{x=829, y=86, z=1740}
+[02:40:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=862, y=78, z=1796} jd{x=862, y=76, z=1796}
+[02:41:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=812, y=88, z=1734} jd{x=811, y=88, z=1735}
+[02:41:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=812, y=88, z=1734} jd{x=811, y=88, z=1735}
+[02:41:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=812, y=88, z=1734} jd{x=811, y=88, z=1735}
+[02:41:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=812, y=88, z=1734} jd{x=811, y=88, z=1735}
