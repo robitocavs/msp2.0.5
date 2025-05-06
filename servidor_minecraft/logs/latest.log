@@ -77,3 +77,15 @@
 [02:57:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=899, y=73, z=1768} jd{x=900, y=72, z=1768}
 [02:57:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=898, y=73, z=1767} jd{x=900, y=72, z=1768}
 [02:57:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=896, y=74, z=1768} jd{x=896, y=72, z=1768}
+[03:00:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=875, y=77, z=1759} jd{x=876, y=76, z=1760}
+[03:04:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=866, y=78, z=1747} jd{x=867, y=77, z=1748}
+[03:04:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=866, y=78, z=1747} jd{x=864, y=79, z=1746}
+[03:04:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=866, y=78, z=1747} jd{x=864, y=78, z=1747}
+[03:04:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=866, y=78, z=1747} jd{x=865, y=78, z=1746}
+[03:04:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=864, y=78, z=1747} jd{x=864, y=79, z=1746}
+[03:04:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=864, y=78, z=1747} jd{x=864, y=79, z=1746}
+[03:04:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=864, y=78, z=1747} jd{x=864, y=79, z=1746}
+[03:07:21] [Server thread/INFO]: panchi06 lost connection: Disconnected
+[03:07:21] [Server thread/INFO]: panchi06 left the game
+[03:07:24] [Server thread/INFO]: rooobiiii lost connection: Disconnected
+[03:07:24] [Server thread/INFO]: rooobiiii left the game
