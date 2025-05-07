@@ -37,3 +37,5 @@
 [23:42:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=229, y=99, z=-16} jd{x=203, y=75, z=222}
 [23:42:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=229, y=99, z=-16} jd{x=203, y=75, z=222}
 [23:45:25] [Server thread/INFO]: Named entity cju['autista'/16584, l='ServerLevel[world]', x=229.80, y=104.06, z=-15.80] died: autista was killed while trying to hurt rooobiiii
+[23:47:07] [Server thread/INFO]: rooobiiii lost connection: Disconnected
+[23:47:07] [Server thread/INFO]: rooobiiii left the game
