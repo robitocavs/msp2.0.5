@@ -24,3 +24,6 @@
 [23:07:27] [Server thread/WARN]: panchi06 moved too quickly! 9.277888361577652,6.973960219377261,-14.018783183022151
 [23:23:05] [Server thread/INFO]: rooobiiii[/100.110.74.100:61048] logged in with entity id 6698 at (226.1154211641714, 57.0, -18.986357001665425)
 [23:23:05] [Server thread/INFO]: rooobiiii joined the game
+[23:34:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=223, y=57, z=-16} jd{x=235, y=100, z=-15}
+[23:35:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=242, y=100, z=-12} jd{x=241, y=100, z=-10}
+[23:36:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=242, y=100, z=-12} jd{x=236, y=100, z=-8}
