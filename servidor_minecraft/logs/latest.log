@@ -27,3 +27,14 @@
 [02:24:35] [Server thread/WARN]: panchi06 moved wrongly!
 [02:51:15] [Server thread/INFO]: panchi06 lost connection: Disconnected
 [02:51:15] [Server thread/INFO]: panchi06 left the game
+[03:13:48] [Server thread/INFO]: Stopping the server
+[03:13:48] [Server thread/INFO]: Stopping server
+[03:13:48] [Server thread/INFO]: Saving players
+[03:13:48] [Server thread/INFO]: Saving worlds
+[03:13:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:13:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:13:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:13:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:13:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:13:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:13:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
