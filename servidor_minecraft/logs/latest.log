@@ -15,3 +15,8 @@
 [01:13:48] [Server thread/INFO]: [panchi06: Gave 1 [Name Tag] to panchi06]
 [01:15:10] [Server thread/INFO]: [panchi06: Gave 1 [Rail] to panchi06]
 [02:04:04] [Server thread/INFO]: panchi06 fell from a high place
+[02:17:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=488, y=61, z=1948} jd{x=487, y=60, z=1948}
+[02:17:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=488, y=61, z=1948} jd{x=487, y=60, z=1948}
+[02:17:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=488, y=61, z=1948} jd{x=487, y=60, z=1948}
+[02:17:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=488, y=61, z=1948} jd{x=487, y=60, z=1948}
+[02:17:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=488, y=61, z=1948} jd{x=487, y=60, z=1948}
