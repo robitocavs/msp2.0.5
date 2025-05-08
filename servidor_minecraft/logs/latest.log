@@ -26,3 +26,14 @@
 [19:30:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=449, y=18, z=842} jd{x=449, y=18, z=841}
 [19:30:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=449, y=18, z=842} jd{x=449, y=18, z=841}
 [19:30:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=449, y=18, z=842} jd{x=449, y=18, z=841}
+[20:13:10] [Server thread/INFO]: Stopping the server
+[20:13:10] [Server thread/INFO]: Stopping server
+[20:13:10] [Server thread/INFO]: Saving players
+[20:13:10] [Server thread/INFO]: Saving worlds
+[20:13:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:13:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:13:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:13:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:13:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:13:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:13:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
