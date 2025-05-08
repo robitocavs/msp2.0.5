@@ -455,6 +455,7 @@
       "minecraft:silverfish": "2025-04-17 22:34:12 +0000",
       "minecraft:enderman": "2025-04-21 01:28:54 +0000",
       "minecraft:magma_cube": "2025-04-17 21:22:30 +0000",
+      "minecraft:endermite": "2025-05-08 00:52:18 +0000",
       "minecraft:spider": "2025-04-10 02:55:17 +0000",
       "minecraft:piglin_brute": "2025-04-17 18:22:58 +0000",
       "minecraft:zombie": "2025-04-13 23:21:56 +0000",
@@ -3951,6 +3952,36 @@
   "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
       "has_white_terracotta": "2025-05-07 19:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-08 00:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-08 00:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-08 00:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-08 00:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-05-08 00:51:37 +0000"
     },
     "done": true
   },
